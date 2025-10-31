@@ -1,0 +1,9 @@
+python-whois
+tldextract
+dnspython
+beautifulsoup4
+selenium
+scikit-image
+opencv-python
+scikit-learn
+tqdm
